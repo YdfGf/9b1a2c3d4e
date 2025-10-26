@@ -40,5 +40,20 @@ window.videos = [
     "harem"
   ],
   "eps1": "https://qu.ax/svSUo.mp4"
+},
+  {
+  "title": "Jangan terlalu sering memikirkan nya, nanti kamu bisa basa sampai pingsan 3",
+  "aired-start": "2025-10-26",
+  "thumbnail": "https://i.postimg.cc/J4M4Y2jy/Screenshot-20251026-154039-2.jpg",
+  "direktur": "Admin",
+  "hashtags": [
+    "Overflow",
+    "adik",
+    "kakak",
+    "keluarga",
+    "harem",
+    "nikmati"
+  ],
+  "eps1": "https://qu.ax/irnUh.mp4"
 }
 ];
