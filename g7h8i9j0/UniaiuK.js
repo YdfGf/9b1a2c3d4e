@@ -80,5 +80,19 @@ window.videos = [
     "harem"
   ],
   "eps1": "https://qu.ax/TMUVR.mp4"
+},
+  {
+  "title": "Adik saya lebih suka yang ini 7 overflow",
+  "aired-start": "2025-10-26",
+  "thumbnail": "https://i.postimg.cc/qBQbF6d7/Screen.jpg",
+  "direktur": "Admin",
+  "hashtags": [
+    "Overflow",
+    "adik",
+    "kakak",
+    "keluarga",
+    "harem"
+  ],
+  "eps1": "https://qu.ax/vilBn.mp4"
 }
 ];
