@@ -26,5 +26,19 @@ window.videos = [
     "harem"
   ],
   "eps1": "https://qu.ax/CmouR.mp4"
+},
+  {
+  "title": "Enak banget ya sama rasa nya ini, nyaman banget 2",
+  "aired-start": "2025-10-26",
+  "thumbnail": "https://i.postimg.cc/RFBTnmnV/Screenshot-20251026-153347-2.jpg",
+  "direktur": "Admin",
+  "hashtags": [
+    "Overflow",
+    "adik",
+    "kakak",
+    "keluarga",
+    "harem"
+  ],
+  "eps1": "https://qu.ax/svSUo.mp4"
 }
 ];
