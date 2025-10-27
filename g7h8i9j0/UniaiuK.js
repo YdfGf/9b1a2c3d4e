@@ -147,5 +147,18 @@ window.videos = [
     "keluarga"
   ],
   "eps1": "https://qu.ax/gZfNF.mp4"
+},
+  {
+  "title": "Shoujo Ramune 4",
+  "aired-start": "2025-10-27",
+  "thumbnail": "https://i.postimg.cc/yYPLR4Wy/Screenshot-20251027-104247-2.jpg",
+  "direktur": "Admin",
+  "hashtags": [
+    "Shoujo Ramune",
+    "lol",
+    "Harem",
+    "keluarga"
+  ],
+  "eps1": "https://qu.ax/OBqVp.mp4"
 }
 ];
