@@ -183,5 +183,17 @@ window.videos = [
     "Nukitashi the Animation"
   ],
   "eps1": "https://qu.ax/ZXFKU.mp4"
+},
+  {
+  "title": "Nukitashi the Animation 2",
+  "aired-start": "2025-10-27",
+  "thumbnail": "https://i.postimg.cc/WzyBwKwQ/Screenshot-20251027-123208-2.jpg",
+  "direktur": "Admin",
+  "hashtags": [
+    "Nukitashi the Animation",
+    "Harem",
+    "keluarga"
+  ],
+  "eps1": "https://qu.ax/ZbHXj.mp4"
 }
 ];
