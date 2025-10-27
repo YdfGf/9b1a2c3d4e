@@ -195,5 +195,17 @@ window.videos = [
     "keluarga"
   ],
   "eps1": "https://qu.ax/ZbHXj.mp4"
+},
+  {
+  "title": "Nukitashi the Animation 3",
+  "aired-start": "2025-10-27",
+  "thumbnail": "https://i.postimg.cc/t44r4DdC/Shoterme.jpg",
+  "direktur": "Admin",
+  "hashtags": [
+    "Nukitashi the Animation",
+    "Harem",
+    "keluarga"
+  ],
+  "eps1": "https://qu.ax/ZuKlq.mp4"
 }
 ];
