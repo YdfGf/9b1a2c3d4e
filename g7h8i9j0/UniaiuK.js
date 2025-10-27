@@ -160,5 +160,18 @@ window.videos = [
     "keluarga"
   ],
   "eps1": "https://qu.ax/OBqVp.mp4"
+},
+  {
+  "title": "Shoujo Ramune 5",
+  "aired-start": "2025-10-27",
+  "thumbnail": "https://i.postimg.cc/9M0h6tSS/Lumatilda.jpg",
+  "direktur": "Admin",
+  "hashtags": [
+    "Shoujo Ramune",
+    "lol",
+    "Harem",
+    "keluarga"
+  ],
+  "eps1": "https://qu.ax/rkzYm.mp4"
 }
 ];
