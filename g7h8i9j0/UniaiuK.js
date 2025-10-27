@@ -173,5 +173,15 @@ window.videos = [
     "keluarga"
   ],
   "eps1": "https://qu.ax/rkzYm.mp4"
+},
+  {
+  "title": "Nukitashi the Animation 1 lupa masa lalu ayo sekarang bersenang senang",
+  "aired-start": "2025-10-27",
+  "thumbnail": "https://i.postimg.cc/v83sQjMX/Screenshot-20251027-110530-2.jpg",
+  "direktur": "Admin",
+  "hashtags": [
+    "Nukitashi the Animation"
+  ],
+  "eps1": "https://qu.ax/ZXFKU.mp4"
 }
 ];
