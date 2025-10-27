@@ -13,7 +13,7 @@ window.videos = [
   "thumbnail": "https://i.postimg.cc/HLR29Rhg/Screenshot-20251025-010513-2.jpg",
   "direktur": "Admin",
   "hashtags": ["keluarga", "lol", "Pako"],
-  "eps1": "https://pixeldrain.com/api/filesystem/4J9pPL9K?download"
+  "eps1": "https://files.catbox.moe/v0glav"
 },
   {
   "title": "Kakaknya mau merasakan kenikmatan adik nya",
